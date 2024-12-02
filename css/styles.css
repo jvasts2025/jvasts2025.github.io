@@ -10833,3 +10833,5 @@ section {
 #committee h4 {
     font-weight: bold !important;
 }
+
+#committee a:hover {text-decoration: underline;}
