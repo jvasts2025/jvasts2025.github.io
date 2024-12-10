@@ -10835,3 +10835,19 @@ section {
 }
 
 #committee a:hover {text-decoration: underline;}
+
+#program table {
+  vertical-align: middle;
+}
+
+#program p.lead {
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+#program table tr td:first-child{
+  width: 19%;
+}
+#program table tr td:last-child{
+  width: 32%;
+}
